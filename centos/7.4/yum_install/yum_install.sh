@@ -1,1 +1,2 @@
-sudo yum install -y xsel
+#For clipboard copy
+sudo yum -y install xsel
